@@ -186,10 +186,3 @@ show crypto ipsec sa
 - Crypto map sur la bonne interface
 
 ---
-
-## 👉 Prochaines étapes possibles
-
-- Ajouter plusieurs LAN dans le VPN
-- Mettre du PFS
-- Migrer vers IKEv2
-- Faire un schéma de dépannage (quoi vérifier quand ça ne monte pas)
